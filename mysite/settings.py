@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'h0gvzav@f2v1cn38!a&v&0#f=go&+=7(+)t_v9q^*ftzn@=q@)'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'bijumon.pythonanywhere.com']
 
 
 # Application definition
