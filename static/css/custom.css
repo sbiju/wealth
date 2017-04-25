@@ -28,3 +28,6 @@ margin-top: 150px;
 .navbar-default {
     background-image: linear-gradient(to bottom,#369044 0,#919fce 100%);
 }
+body{
+background-color: #86b495;
+}
